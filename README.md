@@ -1,6 +1,5 @@
 # 👋 Xin chào! Tôi là Victor Aurelius  
 
-![Banner](https://via.placeholder.com/1000x300)  
 *“Không ngừng học hỏi và phát triển để tạo ra những giải pháp sáng tạo.”*
 
 ---
@@ -36,16 +35,8 @@
 
 ---
 
-## 🚀 Các dự án nổi bật
-- [Java-Spring-MVC](https://github.com/VictorAurelius/Java-Spring-MVC): *Ứng dụng MVC sử dụng Java Spring.*
-- [ThuVienWeb](https://github.com/VictorAurelius/ThuVienWeb): *Hệ thống thư viện trực tuyến phát triển bằng C#.*
-- [ThuVienNoRes](https://github.com/VictorAurelius/ThuVienNoRes): *Trang web HTML đơn giản cho quản lý tài nguyên.*
-
----
-
 ## 🌐 Kết nối với tôi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victoraurelius)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/victoraurelius)  
 
 ---
 
